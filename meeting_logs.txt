@@ -1,0 +1,18 @@
+Meeting 1
+
+Date: February 16, 2025
+Time: 4.21 PM - 2:58
+Location: Virtual via Discord call
+Objective: Tasks were delineaeted, team members were assigned roles, and a name was chosen for the group
+Team Members Present: Ethan J Gao, Taha N Khalid, Gregory Markose, Zonaid A Prithu, Saurav Renju, Matthew Sullivan 
+Tasks Allocated: 
+      Ethan : Help create Scope statement, deadline 02/16 11:59pm
+      Taha : Create team member profiles, deadline 02/16 11:59pm
+      Gregory : Format github repository, deadline 02/16 11:59pm
+      Zonaid : Create meeting logs, deadline 02/16 11:59pm
+      Saurav : Help create scope statement, deadline 02/16 11:59pm
+      Matthew: Create Github repository, Create vision statement deadline 02/16 11:59pm
+
+Task Completion Confirmation : First meeting, not applicable
+
+--------------------------------------------------------------------------------------------------------------------------------
