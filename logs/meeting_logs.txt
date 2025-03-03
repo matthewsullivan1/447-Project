@@ -3,7 +3,7 @@ Meeting 1
 Date: February 16, 2025
 Time: 4.21 PM - 4:59 PM
 Location: Virtual via Discord call
-Objective: Tasks were delineaeted, team members were assigned roles, and a name was chosen for the group
+Objective: Tasks were delineated, team members were assigned roles, and a name was chosen for the group
 Team Members Present: Ethan J Gao, Taha N Khalid, Gregory Markose, Zonaid A Prithu, Saurav Renju, Matthew Sullivan 
 Tasks Allocated: 
       Ethan : Help create Scope statement, deadline 02/16 11:59pm
@@ -15,4 +15,28 @@ Tasks Allocated:
 
 Task Completion Confirmation : First meeting, not applicable
 
---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
+Meeting 2
+
+Date: March 2, 2025
+Time: 4:34 PM - 5:01 PM
+Location: Virtual via Discord call
+Objective: Tasks delineated for database requirements, collaborated on document together.
+Team Members Present: Ethan J Gao, Taha N Khalid, Gregory Markose, Zonaid A Prithu, Saurav Renju, Matthew Sullivan 
+Tasks Allocated: 
+      Ethan : Create data entry requirements section, deadline 03/02 11:59pm
+      Taha : Create functional requirements section, deadline 03/02 11:59pm
+      Gregory : Create non functional & help on functional requirements section, deadline 03/02 11:59pm
+      Zonaid : Create introduction and stakeholders section, deadline 03/02 11:59pm
+      Saurav : Create hardware and software requirements section, deadline 03/02 11:59pm
+      Matthew: Create software requirements section, deadline 03/02 11:59pm
+
+Task Completion Confirmation : 
+      Ethan : Help create Scope statement, (completed)
+      Taha : Create team member profiles, (completed)
+      Gregory : Format github repository, (completed)
+      Zonaid : Create meeting logs, (completed)
+      Saurav : Help create scope statement, (completed)
+      Matthew: Create Github repository, Create vision statement, (completed)
+
+---------------------------------------------------------------------------------------------------------------------------
