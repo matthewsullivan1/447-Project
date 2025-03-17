@@ -40,3 +40,24 @@ Task Completion Confirmation :
       Matthew: Create Github repository, Create vision statement, (completed)
 
 ---------------------------------------------------------------------------------------------------------------------------
+Meeting 3
+
+Date: March 16, 2025
+Time: 4:46 PM - 5:28 PM 
+Location: Virtual via Discord call
+Objective: Tasks were delineated to team to develop ER diagram, develop structure to use for database design.
+Team Members Present: Ethan J Gao, Taha N Khalid, Gregory Markose, Zonaid A Prithu, Saurav Renju, Matthew Sullivan
+Tasks Allocated:
+      Ethan: Finalize entity attributes and constraints, deadline 03/09 11:59 PM
+      Taha: Validate relationships and cardinalities, deadline 03/09 11:59 PM
+      Gregory: Refine ER diagram in Lucidchart/draw.io, deadline 03/09 11:59 PM
+      Zonaid: Draft ER model section in the documentation and push it to the repo, deadline 03/09 11:59 PM (Completed)
+      Saurav: Review ER model for consistency with requirements, deadline 03/09 11:59 PM
+      Matthew: Formaatted/finalized section 2.1 in the document, ensuring attributes and constraints are properly structured, deadline 03/09 11:59 PM
+Task Completion Confirmation:
+      Ethan: Completed reviewing entity attributes and constraints
+      Taha: Verified relationships and ensured correctness of cardinalities (completed)
+      Gregory: Updated ER diagram with refined relationships and attributes (completed)
+      Zonaid: Drafted the ER model section in the documentation and pushed it to the repo (completed)
+      Saurav: Checked ER model against project requirements and created meeting log(completed)
+      Matthew: Completed section 2.1 in the document, ensuring attributes and constraints are properly structured (completed)
