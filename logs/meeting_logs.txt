@@ -62,3 +62,27 @@ Task Completion Confirmation:
       Zonaid: Create introduction and stakeholders section (completed)
       Saurav: Create hardware and software requirements section (completed)
       Matthew: Create software requirements section (completed)
+
+---------------------------------------------------------------------------------------------------------------------------
+Meeting 4
+
+Date: April 6, 2025
+Time: 4:21PM - 5:16 PM 
+Location: Virtual via Discord call
+Objective: Tasks were delineated to team to develop relational schema diagram and finish Relational Modeling Document.
+Team Members Present: Ethan J Gao, Taha N Khalid, Gregory Markose, Zonaid A Prithu, Saurav Renju, Matthew Sullivan
+Tasks Allocated:
+      Ethan: create relstional schema modrl, deadline 04/06 11:59 PM
+      Taha: create data dictionary, deadline 04/06 11:59 PM
+      Gregory: Refine ER diagram in Lucidchart/draw.io, deadline 04/06 11:59 PM
+      Zonaid: Draft Relational model section in the documentation and push it to the repo, deadline 04/06 11:59 PM
+      Saurav: Review Relational model for consistency with requirements, deadline 04/06 11:59 PM
+      Matthew: Formatted/finalized section 2.1 in the document, ensuring attributes and constraints are properly structured, deadline 04/06 11:59 PM
+
+Task Completion Confirmation:
+      Ethan: Finalize entity attributes and constraints (completed)
+      Taha: Validate relationships and cardinalities (completed)
+      Gregory: Refine ER diagram in Lucidchart/draw.io (completed)
+      Zonaid: Draft ER model section in the documentation and push it to the repo (completed)
+      Saurav: Review ER model for consistency with requirements (completed)
+      Matthew: Formatted/finalized section 2.1 in the document, ensuring attributes and constraints are properly structured (completed)
