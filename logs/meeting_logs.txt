@@ -72,7 +72,7 @@ Location: Virtual via Discord call
 Objective: Tasks were delineated to team to develop relational schema diagram and finish Relational Modeling Document.
 Team Members Present: Ethan J Gao, Taha N Khalid, Gregory Markose, Zonaid A Prithu, Saurav Renju, Matthew Sullivan
 Tasks Allocated:
-      Ethan: create relstional schema modrl, deadline 04/06 11:59 PM
+      Ethan: create relstional schema model, deadline 04/06 11:59 PM
       Taha: create data dictionary, deadline 04/06 11:59 PM
       Gregory: Refine ER diagram in Lucidchart/draw.io, deadline 04/06 11:59 PM
       Zonaid: Draft Relational model section in the documentation and push it to the repo, deadline 04/06 11:59 PM
@@ -85,4 +85,27 @@ Task Completion Confirmation:
       Gregory: Refine ER diagram in Lucidchart/draw.io (completed)
       Zonaid: Draft ER model section in the documentation and push it to the repo (completed)
       Saurav: Review ER model for consistency with requirements (completed)
+      Matthew: Formatted/finalized section 2.1 in the document, ensuring attributes and constraints are properly structured (completed)
+---------------------------------------------------------------------------------------------------------------------------
+Meeting 5
+
+Date: April 27, 2025
+Time: 4:01PM - 5:02 PM 
+Location: Virtual via Discord call
+Objective: Tasks were delineated to team members to physically develop the database.
+Team Members Present: Ethan J Gao, Taha N Khalid, Gregory Markose, Zonaid A Prithu, Saurav Renju, Matthew Sullivan
+Tasks Allocated:
+      Ethan: manually create population script, deadline 04/27 11:59 PM
+      Taha: create physical design document, deadline 04/27 11:59 PM
+      Gregory: manage and create the database on the cycle server, deadline 04/27 11:59 PM
+      Zonaid: create physical schema, deadline 04/27 11:59 PM
+      Saurav: create print scripts and acquire table contents, deadline 04/27 11:59 PM
+      Matthew: structure repository and assist in physical schema creation, deadline 04/27 11:59 PM
+
+Task Completion Confirmation:
+      Ethan: create relstional schema model (completed)
+      Taha: create data dictionary (completed)
+      Gregory: Refine ER diagram in Lucidchart/draw.io (completed)
+      Zonaid: Draft Relational model section in the documentation and push it to the repo (completed)
+      Saurav: Review Relational model for consistency with requirements (completed)
       Matthew: Formatted/finalized section 2.1 in the document, ensuring attributes and constraints are properly structured (completed)
